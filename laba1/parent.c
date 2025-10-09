@@ -119,7 +119,7 @@ int main( int argc, char **argv){
 				if (responseBytes > 0){
 					write(STDOUT_FILENO, buf, responseBytes);
 				} else if (responseBytes == 0){
-					const char msg[] = "parent: child process terminated (div by 0)";
+					const char msg[] = "parent: child process terminated (div by 0)\n";
 					write(STDERR_FILENO, msg, sizeof(msg));
 					break;
 				}

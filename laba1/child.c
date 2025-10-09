@@ -26,7 +26,7 @@ int main(int argc, char **argv){
 		}
 
 		for(ssize_t i = 0; i < bytes; i++){
-			if (buf[i] == '\n') { //  /r for windows lol
+			if (buf[i] == '\n') { 
 				if (strInd == 0){
 					continue;
 				}

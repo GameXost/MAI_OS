@@ -1,0 +1,10 @@
+build/
+bin/
+.cache/
+
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.log

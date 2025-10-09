@@ -103,9 +103,18 @@ int main( int argc, char **argv){
 			}
 			char buf[4096];
 			ssize_t bytes;
+			bool last_was_newline = true;
 
 			while ((bytes = read(file, buf, sizeof(buf))) > 0){
-				write(parentToChild[1], buf, bytes);
+				if (bytes > 0) {
+					ssize_t w = write(parentToChild[1], buf, (size_t)bytes);
+					if (w == -1) {
+						const char msg[] = "error: failed to write to child pipe\n";
+						write(STDERR_FILENO, msg, sizeof(msg));
+						break;
+					}
+					last_was_newline = (buf[bytes-1] == '\n');
+				}
 				ssize_t responseBytes = read(childToParent[0], buf, sizeof(buf));
 				if (responseBytes > 0){
 					write(STDOUT_FILENO, buf, responseBytes);
@@ -115,6 +124,17 @@ int main( int argc, char **argv){
 					break;
 				}
 			}
+
+			if (bytes == -1) {
+				const char msg[] = "error: failed to read input file\n";
+				write(STDERR_FILENO, msg, sizeof(msg));
+			}
+
+			if (!last_was_newline) {
+				const char nl = '\n';
+				write(parentToChild[1], &nl, 1);
+			}
+
 			close(file);
 			close(parentToChild[1]);
 			close(childToParent[0]);

@@ -30,9 +30,14 @@ int main( int argc, char **argv){
 		progpath[len] = '\0';
 
 		ssize_t i = len - 1;
-		while (i >= 0 && progpath[i] != '/') --i;
-		if (i >= 0) progpath[i] = '\0';
-		else progpath[0] = '\0';
+		while (i >= 0 && progpath[i] != '/'){
+			 --i;
+		}
+		if (i >= 0){
+			 progpath[i] = '\0';
+		} else{
+			 progpath[0] = '\0';
+		}
 	}
 
 	int parentToChild[2];

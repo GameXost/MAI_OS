@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/03-data-race.dir/examples/03-data-race.c.o" -o 03-data-race 

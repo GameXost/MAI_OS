@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/02-fork-join.dir/examples/02-fork-join.c.o" -o 02-fork-join 

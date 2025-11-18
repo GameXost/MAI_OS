@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/04-mutex-lock.dir/examples/04-mutex-lock.c.o" -o 04-mutex-lock 

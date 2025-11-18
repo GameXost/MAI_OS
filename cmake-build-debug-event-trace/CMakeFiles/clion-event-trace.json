@@ -1,0 +1,9550 @@
+[{
+	"cat" : "project",
+	"name" : "configure",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596729201
+},{
+	"args" : 
+	{
+		"functionArgs" : "VERSION 3.20",
+		"location" : "/mnt/d/MAI/3semestr/OSI/CMakeLists.txt:1"
+	},
+	"cat" : "script",
+	"name" : "cmake_minimum_required",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596781925
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596782589
+},{
+	"args" : 
+	{
+		"functionArgs" : "OSI C",
+		"location" : "/mnt/d/MAI/3semestr/OSI/CMakeLists.txt:2"
+	},
+	"cat" : "script",
+	"name" : "project",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596782604
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_HOST_SYSTEM Linux-6.6.87.2-microsoft-standard-WSL2",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:1"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596792297
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596792973
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_HOST_SYSTEM_NAME Linux",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:2"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596792991
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793008
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_HOST_SYSTEM_VERSION 6.6.87.2-microsoft-standard-WSL2",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:3"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793014
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793024
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_HOST_SYSTEM_PROCESSOR x86_64",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:4"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793029
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793037
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM Linux-6.6.87.2-microsoft-standard-WSL2",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:8"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793043
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793052
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_NAME Linux",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793056
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793064
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_VERSION 6.6.87.2-microsoft-standard-WSL2",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793070
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793090
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_PROCESSOR x86_64",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793096
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793103
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_CROSSCOMPILING FALSE",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793108
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793116
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_LOADED 1",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeSystem.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793121
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793128
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPLE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793940
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793958
+},{
+	"args" : 
+	{
+		"functionArgs" : "UNIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793962
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793968
+},{
+	"args" : 
+	{
+		"functionArgs" : "CYGWIN",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793971
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793975
+},{
+	"args" : 
+	{
+		"functionArgs" : "MSYS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793978
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793981
+},{
+	"args" : 
+	{
+		"functionArgs" : "WIN32",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793984
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793988
+},{
+	"args" : 
+	{
+		"functionArgs" : "BSD",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793990
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793994
+},{
+	"args" : 
+	{
+		"functionArgs" : "LINUX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596793997
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596794001
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EFFECTIVE_SYSTEM_NAME ${CMAKE_SYSTEM_NAME}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596794004
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596794012
+},{
+	"args" : 
+	{
+		"functionArgs" : "Platform/${CMAKE_SYSTEM_NAME}-Initialize OPTIONAL",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:34"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596794015
+},{
+	"args" : 
+	{
+		"functionArgs" : "LINUX 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake:1"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795624
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795647
+},{
+	"args" : 
+	{
+		"functionArgs" : "UNIX 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake:2"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795653
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795662
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LIBRARY_ARCHITECTURE_REGEX [a-z0-9_]+(-[a-z0-9_]+)?-linux-gnu[a-z0-9_]*",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake:5"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795667
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795676
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795684
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_SPECIFIC_INITIALIZE_LOADED 1",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake:36"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795689
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596795698
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER /usr/bin/cc",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:1"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596808075
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813656
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ARG1 ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:2"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813677
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813687
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ID GNU",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:3"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813693
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813701
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_VERSION 13.3.0",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:4"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813706
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813713
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_VERSION_INTERNAL ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:5"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813718
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813726
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_WRAPPER ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:6"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813730
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813737
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_STANDARD_COMPUTED_DEFAULT 17",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:7"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813742
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813756
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_EXTENSIONS_COMPUTED_DEFAULT ON",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:8"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813763
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813770
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_FEATURES c_std_90;c_function_prototypes;c_std_99;c_restrict;c_variadic_macros;c_std_11;c_static_assert;c_std_17;c_std_23",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813775
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813783
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C90_COMPILE_FEATURES c_std_90;c_function_prototypes",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813788
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813796
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C99_COMPILE_FEATURES c_std_99;c_restrict;c_variadic_macros",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813801
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813808
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C11_COMPILE_FEATURES c_std_11;c_static_assert",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813813
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813820
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C17_COMPILE_FEATURES c_std_17",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813824
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813831
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C23_COMPILE_FEATURES c_std_23",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813836
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813842
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_PLATFORM_ID Linux",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813847
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813853
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_SIMULATE_ID ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813857
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813864
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_FRONTEND_VARIANT GNU",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813868
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813874
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_SIMULATE_VERSION ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813879
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813885
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_AR /usr/bin/ar",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:24"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813890
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813896
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_AR /usr/bin/gcc-ar-13",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813901
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813907
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_RANLIB /usr/bin/ranlib",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:26"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813912
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813920
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_RANLIB /usr/bin/gcc-ranlib-13",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:27"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813925
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813932
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINKER /usr/bin/ld",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813937
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813944
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_MT ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596813949
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814247
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_TAPI CMAKE_TAPI-NOTFOUND",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814264
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814275
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_COMPILER_IS_GNUCC 1",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814280
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814289
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_LOADED 1",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814293
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814299
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_WORKS TRUE",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814303
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814309
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ABI_COMPILED TRUE",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:34"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814313
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814318
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ENV_VAR CC",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:36"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814322
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814329
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ID_RUN 1",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:38"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814333
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814339
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_SOURCE_FILE_EXTENSIONS c;m",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:39"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814343
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814351
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_IGNORE_EXTENSIONS h;H;o;O;obj;OBJ;def;DEF;rc;RC",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:40"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814355
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814364
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_PREFERENCE 10",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:41"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814368
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814374
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_DEPFILE_SUPPORTED TRUE",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:42"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814378
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814401
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_SIZEOF_DATA_PTR 8",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:45"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814405
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814412
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ABI ELF",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:46"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814416
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814421
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_BYTE_ORDER LITTLE_ENDIAN",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:47"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814425
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814431
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LIBRARY_ARCHITECTURE x86_64-linux-gnu",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:48"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814435
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814441
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_SIZEOF_DATA_PTR",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:50"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814445
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596814519
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SIZEOF_VOID_P ${CMAKE_C_SIZEOF_DATA_PTR}",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:51"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815107
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815121
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ABI",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:54"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815125
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815133
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_INTERNAL_PLATFORM_ABI ${CMAKE_C_COMPILER_ABI}",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:55"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815137
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815142
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LIBRARY_ARCHITECTURE",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:58"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815145
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815149
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LIBRARY_ARCHITECTURE x86_64-linux-gnu",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:59"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815152
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815157
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_CL_SHOWINCLUDES_PREFIX ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:62"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815159
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815164
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_CL_SHOWINCLUDES_PREFIX",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:63"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815166
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815170
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES /usr/lib/gcc/x86_64-linux-gnu/13/include;/usr/local/include;/usr/include/x86_64-linux-gnu;/usr/include",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:71"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815174
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815381
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_IMPLICIT_LINK_LIBRARIES gcc;gcc_s;c;gcc;gcc_s",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:72"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815391
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815397
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_IMPLICIT_LINK_DIRECTORIES /usr/lib/gcc/x86_64-linux-gnu/13;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:73"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815401
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815406
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES ",
+		"location" : "/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/3.28.3/CMakeCCompiler.cmake:74"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815410
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815414
+},{
+	"args" : 
+	{
+		"functionArgs" : "_cmake_record_install_prefix",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "function",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815870
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815884
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMakeGenericSystem",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:27"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596815897
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMakeInitializeConfigs",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:4"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596816991
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:4"
+	},
+	"cat" : "script",
+	"name" : "include_guard",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596817957
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818048
+},{
+	"args" : 
+	{
+		"functionArgs" : "cmake_initialize_per_config_variable _PREFIX _DOCSTRING",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:8"
+	},
+	"cat" : "script",
+	"name" : "function",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818059
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818072
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818130
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_C_FLAGS ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:6"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818148
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818161
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_CREATE_C_FLAGS -shared",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:7"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818164
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818171
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_LINK_C_FLAGS ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:8"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818174
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818178
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818181
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818185
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG_SEP ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818188
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818192
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_INCLUDE_FLAG_C -I",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818195
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818201
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LIBRARY_PATH_FLAG -L",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818203
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818208
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LIBRARY_PATH_TERMINATOR ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818210
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818215
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_LIBRARY_FLAG -l",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818217
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818221
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_LIBRARY_SUFFIX ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818224
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818228
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_STATIC_LIBRARY_PREFIX lib",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818230
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818235
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_STATIC_LIBRARY_SUFFIX .a",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818237
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818241
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_PREFIX lib",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818243
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818247
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_SUFFIX .so",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:20"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818249
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818253
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXECUTABLE_SUFFIX ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818256
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818260
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_DL_LIBS dl",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818263
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818268
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_FIND_LIBRARY_PREFIXES lib",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:24"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818270
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818716
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_FIND_LIBRARY_SUFFIXES .so .a",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818731
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818742
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_LIBRARY_USING_DEFAULT_SUPPORTED TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818748
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818757
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_AUTOGEN_ORIGIN_DEPENDS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818762
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818778
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_AUTOGEN_ORIGIN_DEPENDS ON",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:34"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818785
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818793
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_AUTOMOC_COMPILER_PREDEFINES",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:36"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818841
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818858
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_AUTOMOC_COMPILER_PREDEFINES ON",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:37"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818863
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818870
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_AUTOMOC_PATH_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:39"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818874
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818880
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_AUTOMOC_PATH_PREFIX OFF",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:40"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818884
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818891
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_AUTOMOC_MACRO_NAMES",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:42"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818895
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818901
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_AUTOMOC_MACRO_NAMES Q_OBJECT Q_GADGET Q_NAMESPACE Q_NAMESPACE_EXPORT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:43"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818906
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818913
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL PROPERTY TARGET_SUPPORTS_SHARED_LIBS TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:47"
+	},
+	"cat" : "script",
+	"name" : "set_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818918
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818935
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SKIP_RPATH NO CACHE BOOL If set, runtime paths are not added when using shared libraries.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:49"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818939
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818944
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SKIP_INSTALL_RPATH NO CACHE BOOL If set, runtime paths are not added when installing shared libraries, but are added when building.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:51"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818947
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818952
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_VERBOSE_MAKEFILE FALSE CACHE BOOL If this value is on, makefiles will be generated without the .SILENT directive, and all commands will be echoed to the console during the make.  This is useful for debugging only. With Visual Studio IDE projects all commands are done without /nologo.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:54"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818956
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818964
+},{
+	"args" : 
+	{
+		"functionArgs" : "DEFINED ENV{CMAKE_COLOR_DIAGNOSTICS} AND NOT DEFINED CACHE{CMAKE_COLOR_DIAGNOSTICS}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:56"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818968
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818978
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_GENERATOR MATCHES Make",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:60"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818983
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596818995
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_COLOR_DIAGNOSTICS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:61"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819001
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819008
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_COLOR_MAKEFILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:64"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819013
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819023
+},{
+	"args" : 
+	{
+		"functionArgs" : "DEFINED CMAKE_RULE_MESSAGES",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:66"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819027
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819034
+},{
+	"args" : 
+	{
+		"functionArgs" : "DEFINED CMAKE_TARGET_MESSAGES",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:69"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819037
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819041
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_EXPORT_COMPILE_COMMANDS AND CMAKE_GENERATOR MATCHES Ninja|Unix Makefiles",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:74"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819045
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819056
+},{
+	"args" : 
+	{
+		"functionArgs" : "GetDefaultWindowsPrefixBase var",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:88"
+	},
+	"cat" : "script",
+	"name" : "function",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819060
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819065
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:180"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819075
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819079
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_HOST_UNIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:185"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819082
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819087
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_INSTALL_PREFIX /usr/local CACHE PATH Install path prefix, prepended onto install directories.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:186"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819380
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819400
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_INSTALL_DEFAULT_COMPONENT_NAME Unspecified",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:198"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819406
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819415
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SKIP_RPATH CMAKE_SKIP_INSTALL_RPATH CMAKE_VERBOSE_MAKEFILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake:200"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819421
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819432
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819450
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_INFO_FILE Platform/${CMAKE_SYSTEM_NAME}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819454
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819463
+},{
+	"args" : 
+	{
+		"functionArgs" : "${CMAKE_SYSTEM_INFO_FILE} OPTIONAL RESULT_VARIABLE _INCLUDED_SYSTEM_INFO_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819468
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_DL_LIBS dl",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:1"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819648
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819661
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG -Wl,-rpath,",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:2"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819666
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819674
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG_SEP :",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:3"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819679
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819686
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_RPATH_ORIGIN_TOKEN \\$ORIGIN",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:4"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819691
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819709
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_RPATH_LINK_C_FLAG -Wl,-rpath-link,",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:5"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819714
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819721
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_SONAME_C_FLAG -Wl,-soname,",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:6"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819726
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819732
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXE_EXPORTS_C_FLAG -Wl,--export-dynamic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:7"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819737
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819743
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_PLATFORM_USES_PATH_WHEN_NO_SONAME 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819747
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819754
+},{
+	"args" : 
+	{
+		"functionArgs" : "type SHARED_LIBRARY SHARED_MODULE EXE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819759
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819768
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_${type}_LINK_STATIC_C_FLAGS -Wl,-Bstatic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819775
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819783
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_${type}_LINK_DYNAMIC_C_FLAGS -Wl,-Bdynamic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819787
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819794
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_${type}_LINK_STATIC_C_FLAGS -Wl,-Bstatic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819798
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819805
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_${type}_LINK_DYNAMIC_C_FLAGS -Wl,-Bdynamic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819809
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819816
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_${type}_LINK_STATIC_C_FLAGS -Wl,-Bstatic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819821
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819828
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_${type}_LINK_DYNAMIC_C_FLAGS -Wl,-Bdynamic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819832
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819839
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819845
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819860
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:37"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819867
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819876
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_LIBRARY_USING_WHOLE_ARCHIVE LINKER:--push-state,--whole-archive <LINK_ITEM> LINKER:--pop-state",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:38"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819881
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819890
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_LIBRARY_USING_WHOLE_ARCHIVE_SUPPORTED TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:46"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819895
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819902
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_GROUP_USING_RESCAN LINKER:--start-group LINKER:--end-group",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:51"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819907
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596819914
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_GROUP_USING_RESCAN_SUPPORTED TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:52"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820307
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820340
+},{
+	"args" : 
+	{
+		"functionArgs" : "DEFINED CMAKE_INSTALL_SO_NO_EXE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:63"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820351
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820386
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_INSTALL_SO_NO_EXE ${CMAKE_INSTALL_SO_NO_EXE} CACHE INTERNAL Install .so files without execute permission.",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:66"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820397
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820414
+},{
+	"args" : 
+	{
+		"functionArgs" : "Platform/UnixPaths",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:82"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820421
+},{
+	"args" : 
+	{
+		"functionArgs" : "__UNIX_PATHS_INCLUDED",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820592
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820609
+},{
+	"args" : 
+	{
+		"functionArgs" : "__UNIX_PATHS_INCLUDED 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820615
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820621
+},{
+	"args" : 
+	{
+		"functionArgs" : "UNIX 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820625
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820630
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_INSTALL_DIR ${CMAKE_ROOT} PATH",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "get_filename_component",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820634
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820642
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_INSTALL_DIR ${_CMAKE_INSTALL_DIR} PATH",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:23"
+	},
+	"cat" : "script",
+	"name" : "get_filename_component",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820645
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820650
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_SYSTEM_PREFIX_PATH /usr/local /usr / ${_CMAKE_INSTALL_DIR}",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820653
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820669
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_FIND_NO_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:38"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820672
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820678
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_SYSTEM_PREFIX_PATH ${CMAKE_INSTALL_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:39"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820682
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820687
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_STAGING_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:43"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820690
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820695
+},{
+	"args" : 
+	{
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:50"
+	},
+	"cat" : "script",
+	"name" : "_cmake_record_install_prefix",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820699
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_SYSTEM_PREFIX_PATH_INSTALL_PREFIX_VALUE ${CMAKE_INSTALL_PREFIX} PARENT_SCOPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820712
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820721
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_SYSTEM_PREFIX_PATH_STAGING_PREFIX_VALUE ${CMAKE_STAGING_PREFIX} PARENT_SCOPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820725
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820731
+},{
+	"args" : 
+	{
+		"functionArgs" : "icount 0",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820736
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820741
+},{
+	"args" : 
+	{
+		"functionArgs" : "scount 0",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820745
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820748
+},{
+	"args" : 
+	{
+		"functionArgs" : "value IN LISTS CMAKE_SYSTEM_PREFIX_PATH",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820751
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820757
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820762
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820768
+},{
+	"args" : 
+	{
+		"functionArgs" : "EXPR icount ${icount}+1",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "math",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596820774
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821038
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_STAGING_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821055
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821073
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821080
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821091
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_STAGING_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821096
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821105
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821112
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821120
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_STAGING_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821125
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821539
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821556
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821568
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_STAGING_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821573
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821580
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_INSTALL_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821584
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821591
+},{
+	"args" : 
+	{
+		"functionArgs" : "EXPR icount ${icount}+1",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "math",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821595
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821614
+},{
+	"args" : 
+	{
+		"functionArgs" : "value STREQUAL CMAKE_STAGING_PREFIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821618
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821626
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_SYSTEM_PREFIX_PATH_INSTALL_PREFIX_COUNT ${icount} PARENT_SCOPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821632
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821640
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_SYSTEM_PREFIX_PATH_STAGING_PREFIX_COUNT ${scount} PARENT_SCOPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:23"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821644
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821653
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821659
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_SYSTEM_PREFIX_PATH /usr/X11R6 /usr/pkg /opt",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:53"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821664
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821673
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_SYSTEM_INCLUDE_PATH /usr/include/X11",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:60"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821677
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821684
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_SYSTEM_LIBRARY_PATH /usr/lib/X11",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:65"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821689
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821695
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_PLATFORM_IMPLICIT_LINK_DIRECTORIES /lib /lib32 /lib64 /usr/lib /usr/lib32 /usr/lib64",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:70"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821699
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821707
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSROOT_COMPILE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:74"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821710
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821718
+},{
+	"args" : 
+	{
+		"functionArgs" : "_cmake_sysroot_compile ${CMAKE_SYSROOT}",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:77"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821724
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821733
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES_INIT ${CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES} ${_cmake_sysroot_compile}/usr/include",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:82"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821737
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821747
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES_INIT ${CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES} ${_cmake_sysroot_compile}/usr/include",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:86"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821751
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821760
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_CUDA_IMPLICIT_INCLUDE_DIRECTORIES_INIT ${CMAKE_CUDA_IMPLICIT_INCLUDE_DIRECTORIES} ${_cmake_sysroot_compile}/usr/include",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:90"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821764
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821772
+},{
+	"args" : 
+	{
+		"functionArgs" : "_cmake_sysroot_compile",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:95"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821776
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821782
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_COMPILER_SYSROOT",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:100"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821786
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821793
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL PROPERTY FIND_LIBRARY_USE_LIB32_PATHS TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:109"
+	},
+	"cat" : "script",
+	"name" : "set_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821799
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821809
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL PROPERTY FIND_LIBRARY_USE_LIB64_PATHS TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:110"
+	},
+	"cat" : "script",
+	"name" : "set_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821813
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821820
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL PROPERTY FIND_LIBRARY_USE_LIBX32_PATHS TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake:111"
+	},
+	"cat" : "script",
+	"name" : "set_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821824
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821830
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821844
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_CROSSCOMPILING",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:86"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821848
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821856
+},{
+	"args" : 
+	{
+		"functionArgs" : "EXISTS /etc/debian_version",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:87"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821861
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821878
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL PROPERTY FIND_LIBRARY_USE_LIB32_PATHS FALSE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:88"
+	},
+	"cat" : "script",
+	"name" : "set_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596821883
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822506
+},{
+	"args" : 
+	{
+		"functionArgs" : "GLOBAL PROPERTY FIND_LIBRARY_USE_LIB64_PATHS FALSE",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:89"
+	},
+	"cat" : "script",
+	"name" : "set_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822524
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822533
+},{
+	"args" : 
+	{
+		"functionArgs" : "EXISTS /etc/arch-release",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake:91"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822540
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822562
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822583
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT _INCLUDED_SYSTEM_INFO_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:34"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822589
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822602
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXTRA_GENERATOR",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:48"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822608
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822616
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_MODULE_EXISTS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:58"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822621
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822629
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_MODULE_PREFIX ${CMAKE_SHARED_LIBRARY_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:59"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822635
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822646
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_MODULE_SUFFIX ${CMAKE_SHARED_LIBRARY_SUFFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:60"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822651
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822697
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_SPECIFIC_INFORMATION_LOADED 1",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake:64"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822711
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822722
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMakeLanguageInformation",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822922
+},{
+	"args" : 
+	{
+		"functionArgs" : "__cmake_include_compiler_wrapper lang",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822985
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596822996
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823019
+},{
+	"args" : 
+	{
+		"functionArgs" : "UNIX",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823024
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823035
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_OUTPUT_EXTENSION .o",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823040
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823047
+},{
+	"args" : 
+	{
+		"functionArgs" : "_INCLUDED_FILE 0",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823052
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823058
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ID",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:24"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823062
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823069
+},{
+	"args" : 
+	{
+		"functionArgs" : "Compiler/${CMAKE_C_COMPILER_ID}-C OPTIONAL",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596823077
+},{
+	"args" : 
+	{
+		"functionArgs" : "Compiler/GNU",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:1"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596824185
+},{
+	"args" : 
+	{
+		"functionArgs" : "__COMPILER_GNU",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:6"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596825332
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596825355
+},{
+	"args" : 
+	{
+		"functionArgs" : "__COMPILER_GNU 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596825363
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596825372
+},{
+	"args" : 
+	{
+		"functionArgs" : "Compiler/CMakeCommonCompilerMacros",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596825377
+},{
+	"args" : 
+	{
+		"functionArgs" : "__COMPILER_CMAKE_COMMON_COMPILER_MACROS",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:5"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826142
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826167
+},{
+	"args" : 
+	{
+		"functionArgs" : "__COMPILER_CMAKE_COMMON_COMPILER_MACROS 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:8"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826174
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826183
+},{
+	"args" : 
+	{
+		"functionArgs" : "__compiler_check_default_language_standard lang stdver1 std1",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826189
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826197
+},{
+	"args" : 
+	{
+		"functionArgs" : "cmake_record_c_compile_features",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:71"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826214
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826222
+},{
+	"args" : 
+	{
+		"functionArgs" : "cmake_record_cxx_compile_features",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:106"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826234
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826241
+},{
+	"args" : 
+	{
+		"functionArgs" : "cmake_record_cuda_compile_features",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:143"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826253
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826260
+},{
+	"args" : 
+	{
+		"functionArgs" : "cmake_record_hip_compile_features",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:180"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826271
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826278
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826292
+},{
+	"args" : 
+	{
+		"functionArgs" : "__pch_header_C c-header",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826782
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826800
+},{
+	"args" : 
+	{
+		"functionArgs" : "__pch_header_CXX c++-header",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826806
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826814
+},{
+	"args" : 
+	{
+		"functionArgs" : "__pch_header_OBJC objective-c-header",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826819
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826826
+},{
+	"args" : 
+	{
+		"functionArgs" : "__pch_header_OBJCXX objective-c++-header",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826832
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826839
+},{
+	"args" : 
+	{
+		"functionArgs" : "__compiler_gnu lang",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826844
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826852
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826933
+},{
+	"args" : 
+	{
+		"functionArgs" : "C",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:2"
+	},
+	"cat" : "script",
+	"name" : "__compiler_gnu",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826943
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_VERBOSE_FLAG -v",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:20"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826964
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826974
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_WARNING_AS_ERROR -Werror",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826981
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826989
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_PIC -fPIC",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596826995
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827003
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_C_PIE_MAY_BE_SUPPORTED_BY_LINKER NO",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:23"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827009
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827017
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 3.4",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:24"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827023
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827039
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_PIE -fPIE",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827048
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827057
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_C_PIE_MAY_BE_SUPPORTED_BY_LINKER YES",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827062
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827069
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINK_OPTIONS_PIE ${CMAKE_C_COMPILE_OPTIONS_PIE} -pie",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827074
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827083
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINK_OPTIONS_NO_PIE -no-pie",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827088
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827094
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 4.0",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827101
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827111
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_VISIBILITY -fvisibility=",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827117
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827125
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_C_FLAGS -fPIC",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827130
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827138
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_CREATE_C_FLAGS -shared",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:36"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827144
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827151
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_SYSROOT --sysroot=",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:37"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827156
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827162
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_WRAPPER_FLAG -Wl,",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:39"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827167
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827174
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_WRAPPER_FLAG_SEP ,",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:40"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827180
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827186
+},{
+	"args" : 
+	{
+		"functionArgs" : "_IN_TC GLOBAL PROPERTY IN_TRY_COMPILE",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:46"
+	},
+	"cat" : "script",
+	"name" : "get_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827192
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827202
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ID STREQUAL GNU AND _IN_TC AND NOT CMAKE_FORCE_DEPFILES",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:47"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827209
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827223
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_DEPFILE_FLAGS_C -MD -MT <DEP_TARGET> -MF <DEP_FILE>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:52"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827230
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827239
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_DEPFILE_FLAGS LINKER:--dependency-file,<DEP_FILE>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:56"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827245
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827252
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_DEPFILE_FORMAT gcc",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:57"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827257
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827778
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_C_LINKER_DEPFILE_SUPPORTED",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:59"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827796
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827810
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINKER_DEPFILE_SUPPORTED",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:88"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827824
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827829
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINK_DEPENDS_USE_LINKER TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:89"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827834
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827839
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_LINK_DEPENDS_USE_LINKER",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:97"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827843
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827849
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_DEPENDS_USE_LINKER FALSE",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:98"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827852
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827857
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_C_FLAGS_INIT  ",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:102"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827861
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827881
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_C_FLAGS_DEBUG_INIT  -g",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:103"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827885
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827889
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_C_FLAGS_MINSIZEREL_INIT  -Os -DNDEBUG",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:104"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827893
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827897
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_C_FLAGS_RELEASE_INIT  -O3 -DNDEBUG",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:105"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827900
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827904
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_C_FLAGS_RELWITHDEBINFO_INIT  -O2 -g -DNDEBUG",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:106"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827908
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827913
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_CREATE_PREPROCESSED_SOURCE <CMAKE_C_COMPILER> <DEFINES> <INCLUDES> <FLAGS> -E <SOURCE> > <PREPROCESSED_SOURCE>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:107"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827917
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827922
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_CREATE_ASSEMBLY_SOURCE <CMAKE_C_COMPILER> <DEFINES> <INCLUDES> <FLAGS> -S <SOURCE> -o <ASSEMBLY_SOURCE>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:108"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827925
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827930
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT APPLE OR NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 4",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:109"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827934
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827946
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_INCLUDE_SYSTEM_FLAG_C -isystem ",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:110"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827949
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827953
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_C_IPO_SUPPORTED_BY_CMAKE YES",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:113"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827956
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827961
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_C_IPO_MAY_BE_SUPPORTED_BY_COMPILER NO",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:114"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827964
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827969
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 4.5",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:119"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827972
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827978
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CMAKE_C_IPO_MAY_BE_SUPPORTED_BY_COMPILER YES",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:120"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827986
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827991
+},{
+	"args" : 
+	{
+		"functionArgs" : "__lto_flags ",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:122"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827993
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596827997
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 11.0",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:129"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828034
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828051
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND __lto_flags -flto=auto",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:130"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828056
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828063
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 4.7",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:141"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828068
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828075
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND __lto_flags -fno-fat-lto-objects",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:145"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828079
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828085
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_IPO ${__lto_flags}",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:148"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828089
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828098
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ARCHIVE_CREATE_IPO \\\"${CMAKE_C_COMPILER_AR}\\\" cr <TARGET> <LINK_FLAGS> <OBJECTS>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:157"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828102
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828415
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ARCHIVE_APPEND_IPO \\\"${CMAKE_C_COMPILER_AR}\\\" r <TARGET> <LINK_FLAGS> <OBJECTS>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:161"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828428
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828438
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ARCHIVE_FINISH_IPO \\\"${CMAKE_C_COMPILER_RANLIB}\\\" <TARGET>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:165"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828442
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828447
+},{
+	"args" : 
+	{
+		"functionArgs" : "C STREQUAL CXX",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:170"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828455
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828463
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT xC STREQUAL xFortran",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:180"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828472
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828478
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_PCH_EXTENSION .gch",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:181"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828484
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828489
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_GENERATOR MATCHES Xcode",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:182"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828492
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828504
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_PCH_PROLOGUE #pragma GCC system_header",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:183"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828508
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828514
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_INVALID_PCH -Winvalid-pch",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:185"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828518
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828524
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_USE_PCH -include <PCH_HEADER>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:186"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828528
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828534
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_CREATE_PCH -x ${__pch_header_C} -include <PCH_HEADER>",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:187"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828537
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828546
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_VERSION VERSION_GREATER_EQUAL 4.9",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:192"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828551
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828561
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_COLOR_DIAGNOSTICS -fdiagnostics-color=always",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:193"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828566
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828573
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_COLOR_DIAGNOSTICS_OFF -fno-diagnostics-color",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake:194"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828577
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828583
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828590
+},{
+	"args" : 
+	{
+		"functionArgs" : "( NOT DEFINED CMAKE_DEPENDS_USE_COMPILER OR CMAKE_DEPENDS_USE_COMPILER ) AND CMAKE_GENERATOR MATCHES Makefiles|WMake AND CMAKE_DEPFILE_FLAGS_C",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:5"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828596
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828619
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_DEPFILE_FORMAT gcc",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828625
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828632
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_DEPENDS_USE_COMPILER TRUE",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828636
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828643
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OPTIONS_EXPLICIT_LANGUAGE -x c",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828647
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828654
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 4.5",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828658
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828666
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C90_STANDARD_COMPILE_OPTION -std=c90",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828671
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828678
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C90_EXTENSION_COMPILE_OPTION -std=gnu90",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828681
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828685
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 3.4",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:23"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828689
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828694
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C90_STANDARD__HAS_FULL_SUPPORT ON",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:24"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828698
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828702
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C99_STANDARD_COMPILE_OPTION -std=c99",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828705
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828709
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C99_EXTENSION_COMPILE_OPTION -std=gnu99",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:26"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828712
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828716
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C99_STANDARD__HAS_FULL_SUPPORT ON",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:27"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828718
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596828722
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_VERSION VERSION_LESS 4.7",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829186
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829217
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C11_STANDARD_COMPILE_OPTION -std=c11",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829225
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829238
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C11_EXTENSION_COMPILE_OPTION -std=gnu11",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829243
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829250
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C11_STANDARD__HAS_FULL_SUPPORT ON",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829254
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829261
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_VERSION VERSION_GREATER_EQUAL 8.1",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:39"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829266
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829276
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C17_STANDARD_COMPILE_OPTION -std=c17",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:40"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829280
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829287
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C17_EXTENSION_COMPILE_OPTION -std=gnu17",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:41"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829291
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829297
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_VERSION VERSION_GREATER_EQUAL 9.1",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:44"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829302
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829310
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C23_STANDARD_COMPILE_OPTION -std=c2x",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:45"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829315
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829322
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C23_EXTENSION_COMPILE_OPTION -std=gnu2x",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:46"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829326
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829332
+},{
+	"args" : 
+	{
+		"functionArgs" : "C 3.4 90 5.0 11 8.1 17",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake:49"
+	},
+	"cat" : "script",
+	"name" : "__compiler_check_default_language_standard",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829338
+},{
+	"args" : 
+	{
+		"functionArgs" : "__std_ver_pairs 3.4;90;5.0;11;8.1;17",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829360
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829369
+},{
+	"args" : 
+	{
+		"functionArgs" : "REGEX REPLACE  *; *   __std_ver_pairs ${__std_ver_pairs}",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:34"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829376
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829401
+},{
+	"args" : 
+	{
+		"functionArgs" : "REGEX MATCHALL [^ ]+ [^ ]+ __std_ver_pairs ${__std_ver_pairs}",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829407
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829420
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_VERSION VERSION_GREATER_EQUAL 3.4",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:39"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829426
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829434
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_FORCED",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:40"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829454
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829464
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_STANDARD_COMPUTED_DEFAULT OR NOT DEFINED CMAKE_C_EXTENSIONS_COMPUTED_DEFAULT",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:41"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829471
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829484
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_STANDARD_DEFAULT ${CMAKE_C_STANDARD_COMPUTED_DEFAULT}",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:44"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829489
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829497
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_EXTENSIONS_DEFAULT ${CMAKE_C_EXTENSIONS_COMPUTED_DEFAULT}",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:45"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829501
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829508
+},{
+	"args" : 
+	{
+		"functionArgs" : "__std_ver_pairs",
+		"location" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:67"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829517
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829525
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829529
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829542
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BASE_NAME",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829548
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829555
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BASE_NAME ${CMAKE_C_COMPILER} NAME_WE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "get_filename_component",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829560
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829570
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_COMPILER_IS_GNUCC",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829574
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829581
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BASE_NAME gcc",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829586
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829593
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SYSTEM_PROCESSOR",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:36"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829598
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829605
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ID",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:37"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829941
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829962
+},{
+	"args" : 
+	{
+		"functionArgs" : "Platform/${CMAKE_EFFECTIVE_SYSTEM_NAME}-${CMAKE_C_COMPILER_ID}-C-${CMAKE_SYSTEM_PROCESSOR} OPTIONAL RESULT_VARIABLE _INCLUDED_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:38"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596829970
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596830785
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT _INCLUDED_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:40"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596830809
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596830831
+},{
+	"args" : 
+	{
+		"functionArgs" : "Platform/${CMAKE_EFFECTIVE_SYSTEM_NAME}-${CMAKE_BASE_NAME}-${CMAKE_SYSTEM_PROCESSOR} OPTIONAL",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:41"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596830838
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831498
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_ID",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:47"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831526
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831548
+},{
+	"args" : 
+	{
+		"functionArgs" : "Platform/${CMAKE_EFFECTIVE_SYSTEM_NAME}-${CMAKE_C_COMPILER_ID}-C OPTIONAL RESULT_VARIABLE _INCLUDED_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:48"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831555
+},{
+	"args" : 
+	{
+		"functionArgs" : "Platform/Linux-GNU",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake:1"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831661
+},{
+	"args" : 
+	{
+		"functionArgs" : "__LINUX_COMPILER_GNU",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake:6"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831709
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831720
+},{
+	"args" : 
+	{
+		"functionArgs" : "__LINUX_COMPILER_GNU 1",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831727
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831735
+},{
+	"args" : 
+	{
+		"functionArgs" : "__linux_compiler_gnu lang",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "macro",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831740
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831748
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831766
+},{
+	"args" : 
+	{
+		"functionArgs" : "C",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake:2"
+	},
+	"cat" : "script",
+	"name" : "__linux_compiler_gnu",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831770
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LIBRARY_LINK_C_FLAGS -rdynamic",
+		"location" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831789
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831798
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831802
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831808
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT _INCLUDED_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:51"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831814
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831824
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILER_WRAPPER",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:57"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831829
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831837
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT _INCLUDED_FILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:65"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831842
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831850
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_SIZEOF_DATA_PTR",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:69"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831855
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831862
+},{
+	"args" : 
+	{
+		"functionArgs" : "f ${CMAKE_C_ABI_FILES}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:70"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831868
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831877
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ABI_FILES",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:73"
+	},
+	"cat" : "script",
+	"name" : "unset",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831883
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831891
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_USER_MAKE_RULES_OVERRIDE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:82"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831896
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831903
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_USER_MAKE_RULES_OVERRIDE_C",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:88"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831909
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831916
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXECUTABLE_FORMAT STREQUAL ELF",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:94"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831921
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831930
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_C_LINK_WHAT_YOU_USE_FLAG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:95"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831936
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831946
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINK_WHAT_YOU_USE_FLAG LINKER:--no-as-needed",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:96"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831952
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831960
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_LINK_WHAT_YOU_USE_CHECK",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:98"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831965
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831974
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_LINK_WHAT_YOU_USE_CHECK ldd -u -r",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:99"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831979
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831987
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_MODULE_EXISTS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:106"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596831992
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832000
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_MODULE_C_FLAGS ${CMAKE_SHARED_LIBRARY_C_FLAGS}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:107"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832462
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832489
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_MODULE_CREATE_C_FLAGS ${CMAKE_SHARED_LIBRARY_CREATE_C_FLAGS}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:108"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832496
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832506
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_FLAGS_INIT $ENV{CFLAGS} ${CMAKE_C_FLAGS_INIT}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:111"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832513
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832522
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_FLAGS Flags used by the C compiler",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:113"
+	},
+	"cat" : "script",
+	"name" : "cmake_initialize_per_config_variable",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832527
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832549
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832559
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX} ${_INIT} CACHE STRING ${_DOCSTRING} during all build types.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832564
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832574
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832579
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832587
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NOT_USING_CONFIG_FLAGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832592
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832604
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CONFIGS Debug Release MinSizeRel RelWithDebInfo",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832611
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832620
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "get_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832625
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832637
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832641
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832648
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NO_BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832654
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832662
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE_INIT} CACHE STRING Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ...",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832667
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832680
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND _CONFIGS ${CMAKE_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832685
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832694
+},{
+	"args" : 
+	{
+		"functionArgs" : "REMOVE_DUPLICATES _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832699
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832721
+},{
+	"args" : 
+	{
+		"functionArgs" : "_BUILD_TYPE IN LISTS _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832726
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832735
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832742
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832753
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832758
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832767
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832771
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832779
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832783
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832792
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832797
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832805
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832811
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832819
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832824
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832831
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832836
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832844
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596832849
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833226
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833246
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833258
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833268
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833285
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833291
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833302
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833306
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833316
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833322
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833331
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833336
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833343
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833349
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833358
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833363
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833370
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833374
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833383
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833387
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833396
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833400
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833406
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833417
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_STANDARD_LIBRARIES_INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:115"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833422
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833431
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILER_LAUNCHER AND DEFINED ENV{CMAKE_C_COMPILER_LAUNCHER}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:121"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833436
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833449
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_LINKER_LAUNCHER AND DEFINED ENV{CMAKE_C_LINKER_LAUNCHER}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:126"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833455
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833464
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMakeCommonLanguageInclude",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:131"
+	},
+	"cat" : "script",
+	"name" : "include",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833469
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_EXE_LINKER_FLAGS_INIT  $ENV{LDFLAGS}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833625
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833644
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_SHARED_LINKER_FLAGS_INIT  $ENV{LDFLAGS}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833650
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833660
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND CMAKE_MODULE_LINKER_FLAGS_INIT  $ENV{LDFLAGS}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:11"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833665
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833674
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXE_LINKER_FLAGS Flags used by the linker",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:13"
+	},
+	"cat" : "script",
+	"name" : "cmake_initialize_per_config_variable",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833679
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833700
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833710
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX} ${_INIT} CACHE STRING ${_DOCSTRING} during all build types.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833716
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833726
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833731
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833738
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NOT_USING_CONFIG_FLAGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833743
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833753
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CONFIGS Debug Release MinSizeRel RelWithDebInfo",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833768
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833776
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "get_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596833781
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834101
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834112
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834123
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NO_BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834129
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834136
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE_INIT} CACHE STRING Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ...",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834140
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834148
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND _CONFIGS ${CMAKE_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834152
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834160
+},{
+	"args" : 
+	{
+		"functionArgs" : "REMOVE_DUPLICATES _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834163
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834171
+},{
+	"args" : 
+	{
+		"functionArgs" : "_BUILD_TYPE IN LISTS _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834174
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834180
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834186
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834193
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834197
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834202
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834205
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834211
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834215
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834221
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834224
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834228
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834232
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834237
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834240
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834244
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834247
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834251
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834254
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834259
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834262
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834266
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834269
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834274
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834277
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834281
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834284
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834289
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834292
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834297
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834299
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834303
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834306
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834311
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834314
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834318
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834321
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834325
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834328
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834700
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834715
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834755
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834766
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_SHARED_LINKER_FLAGS Flags used by the linker during the creation of shared libraries",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "cmake_initialize_per_config_variable",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834773
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834787
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834794
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX} ${_INIT} CACHE STRING ${_DOCSTRING} during all build types.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834798
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834805
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834808
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834813
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NOT_USING_CONFIG_FLAGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834816
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834825
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CONFIGS Debug Release MinSizeRel RelWithDebInfo",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834829
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834834
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "get_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834838
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834845
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834849
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834853
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NO_BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834857
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834862
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE_INIT} CACHE STRING Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ...",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834865
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834871
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND _CONFIGS ${CMAKE_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834874
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834881
+},{
+	"args" : 
+	{
+		"functionArgs" : "REMOVE_DUPLICATES _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834884
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834891
+},{
+	"args" : 
+	{
+		"functionArgs" : "_BUILD_TYPE IN LISTS _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834893
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834899
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834903
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834909
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834912
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834916
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834919
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834924
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834927
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834932
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834935
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834939
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834942
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834946
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834949
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834953
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834956
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834961
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834963
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834968
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834971
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834975
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596834978
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835278
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835286
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835293
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835296
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835303
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835306
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835312
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835315
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835319
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835323
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835328
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835331
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835335
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835338
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835342
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835345
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835350
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835353
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835357
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835362
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_MODULE_LINKER_FLAGS Flags used by the linker during the creation of modules",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "cmake_initialize_per_config_variable",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835366
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835377
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835382
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX} ${_INIT} CACHE STRING ${_DOCSTRING} during all build types.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835385
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835390
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835393
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835397
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NOT_USING_CONFIG_FLAGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835400
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835406
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CONFIGS Debug Release MinSizeRel RelWithDebInfo",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835410
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835415
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "get_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835419
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835425
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835428
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835432
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NO_BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835436
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835440
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE_INIT} CACHE STRING Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ...",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835443
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835449
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND _CONFIGS ${CMAKE_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835452
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835458
+},{
+	"args" : 
+	{
+		"functionArgs" : "REMOVE_DUPLICATES _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835461
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835467
+},{
+	"args" : 
+	{
+		"functionArgs" : "_BUILD_TYPE IN LISTS _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835470
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835475
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835479
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835484
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835487
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835493
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835777
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835793
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835799
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835809
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835813
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835820
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835827
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835838
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835843
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835850
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835854
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835860
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835864
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835871
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835875
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835881
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835886
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835894
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835898
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835904
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835909
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835916
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835920
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835927
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835931
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835938
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835942
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835949
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835954
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835961
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835965
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835973
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835978
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835985
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835989
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596835995
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836062
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_STATIC_LINKER_FLAGS Flags used by the linker during the creation of static libraries",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:16"
+	},
+	"cat" : "script",
+	"name" : "cmake_initialize_per_config_variable",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836071
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:9"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836086
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836094
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX} ${_INIT} CACHE STRING ${_DOCSTRING} during all build types.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:10"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836097
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836103
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:12"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836106
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836111
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NOT_USING_CONFIG_FLAGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:14"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836114
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836120
+},{
+	"args" : 
+	{
+		"functionArgs" : "_CONFIGS Debug Release MinSizeRel RelWithDebInfo",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:15"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836124
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836129
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:17"
+	},
+	"cat" : "script",
+	"name" : "get_property",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836132
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836404
+},{
+	"args" : 
+	{
+		"functionArgs" : "_GENERATOR_IS_MULTI_CONFIG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:18"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836412
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836419
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_NO_BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836424
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836431
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BUILD_TYPE ${CMAKE_BUILD_TYPE_INIT} CACHE STRING Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ...",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:22"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836434
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836442
+},{
+	"args" : 
+	{
+		"functionArgs" : "APPEND _CONFIGS ${CMAKE_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:25"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836446
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836453
+},{
+	"args" : 
+	{
+		"functionArgs" : "REMOVE_DUPLICATES _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:28"
+	},
+	"cat" : "script",
+	"name" : "list",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836456
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836464
+},{
+	"args" : 
+	{
+		"functionArgs" : "_BUILD_TYPE IN LISTS _CONFIGS",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:29"
+	},
+	"cat" : "script",
+	"name" : "foreach",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836467
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836473
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836478
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836484
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836488
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836493
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836496
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836501
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836504
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836510
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836513
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836518
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836522
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836526
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836530
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836534
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836537
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836541
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836544
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836549
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836552
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836557
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836560
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836565
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836570
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836577
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836581
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836587
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836592
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836599
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836603
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836610
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT ${_BUILD_TYPE} STREQUAL ",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:30"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836615
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836623
+},{
+	"args" : 
+	{
+		"functionArgs" : "TOUPPER ${_BUILD_TYPE} _BUILD_TYPE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:31"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836627
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836631
+},{
+	"args" : 
+	{
+		"functionArgs" : "STRIP ${${_PREFIX}_${_BUILD_TYPE}_INIT} _INIT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:32"
+	},
+	"cat" : "script",
+	"name" : "string",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836634
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836639
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE} ${_INIT} CACHE STRING ${_DOCSTRING} during ${_BUILD_TYPE} builds.",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:33"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836642
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836857
+},{
+	"args" : 
+	{
+		"functionArgs" : "${_PREFIX}_${_BUILD_TYPE}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:35"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836870
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836882
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836893
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_BUILD_TOOL ${CMAKE_MAKE_PROGRAM}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:19"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836900
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836913
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_VERBOSE_MAKEFILE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake:21"
+	},
+	"cat" : "script",
+	"name" : "mark_as_advanced",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836919
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836929
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836964
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_CREATE_SHARED_LIBRARY",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:161"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596836975
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837019
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_CREATE_SHARED_LIBRARY <CMAKE_C_COMPILER> <CMAKE_SHARED_LIBRARY_C_FLAGS> <LANGUAGE_COMPILE_FLAGS> <LINK_FLAGS> <CMAKE_SHARED_LIBRARY_CREATE_C_FLAGS> <SONAME_FLAG><TARGET_SONAME> -o <TARGET> <OBJECTS> <LINK_LIBRARIES>",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:162"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837027
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837035
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_CREATE_SHARED_MODULE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:167"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837038
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837043
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_CREATE_SHARED_MODULE ${CMAKE_C_CREATE_SHARED_LIBRARY}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:168"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837047
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837052
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_C_ARCHIVE_CREATE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:173"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837056
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837062
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ARCHIVE_CREATE <CMAKE_AR> qc <TARGET> <LINK_FLAGS> <OBJECTS>",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:174"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837065
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837071
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_C_ARCHIVE_APPEND",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:176"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837076
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837083
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ARCHIVE_APPEND <CMAKE_AR> q <TARGET> <LINK_FLAGS> <OBJECTS>",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:177"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837087
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837094
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT DEFINED CMAKE_C_ARCHIVE_FINISH",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:179"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837098
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837106
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_ARCHIVE_FINISH <CMAKE_RANLIB> <TARGET>",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:180"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837111
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837117
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_COMPILE_OBJECT",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:184"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837122
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837127
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_COMPILE_OBJECT <CMAKE_C_COMPILER> <DEFINES> <INCLUDES> <FLAGS> -o <OBJECT> -c <SOURCE>",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:185"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837130
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837135
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_C_LINK_EXECUTABLE",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:189"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837138
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837142
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_LINK_EXECUTABLE <CMAKE_C_COMPILER> <FLAGS> <CMAKE_C_LINK_FLAGS> <LINK_FLAGS> <OBJECTS> -o <TARGET> <LINK_LIBRARIES>",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:190"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837145
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837150
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_EXECUTABLE_RUNTIME_C_FLAG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:194"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837153
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837158
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXECUTABLE_RUNTIME_C_FLAG ${CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:195"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837161
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837166
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_EXECUTABLE_RUNTIME_C_FLAG_SEP",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:198"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837169
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837174
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXECUTABLE_RUNTIME_C_FLAG_SEP ${CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG_SEP}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:199"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837177
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837183
+},{
+	"args" : 
+	{
+		"functionArgs" : "NOT CMAKE_EXECUTABLE_RPATH_LINK_C_FLAG",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:202"
+	},
+	"cat" : "script",
+	"name" : "if",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837186
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837190
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_EXECUTABLE_RPATH_LINK_C_FLAG ${CMAKE_SHARED_LIBRARY_RPATH_LINK_C_FLAG}",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:203"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837193
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837198
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_INFORMATION_LOADED 1",
+		"location" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake:206"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837201
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837449
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837585
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_STANDARD 17",
+		"location" : "/mnt/d/MAI/3semestr/OSI/CMakeLists.txt:5"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837600
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837614
+},{
+	"args" : 
+	{
+		"functionArgs" : "CMAKE_C_STANDARD_REQUIRED ON",
+		"location" : "/mnt/d/MAI/3semestr/OSI/CMakeLists.txt:6"
+	},
+	"cat" : "script",
+	"name" : "set",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837620
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837629
+},{
+	"args" : 
+	{
+		"functionArgs" : "laba2",
+		"location" : "/mnt/d/MAI/3semestr/OSI/CMakeLists.txt:9"
+	},
+	"cat" : "script",
+	"name" : "add_subdirectory",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596837635
+},{
+	"args" : 
+	{
+		"functionArgs" : "laba2 main.c funcs.c",
+		"location" : "/mnt/d/MAI/3semestr/OSI/laba2/CMakeLists.txt:1"
+	},
+	"cat" : "script",
+	"name" : "add_executable",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596849952
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596850125
+},{
+	"args" : 
+	{
+		"functionArgs" : "laba2 m",
+		"location" : "/mnt/d/MAI/3semestr/OSI/laba2/CMakeLists.txt:2"
+	},
+	"cat" : "script",
+	"name" : "target_link_libraries",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596850136
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596850157
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596850180
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596867352
+},{
+	"cat" : "project",
+	"name" : "generate",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596867367
+},{
+	"cat" : "genex_compile",
+	"name" : "m",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596873034
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596873723
+},{
+	"cat" : "genex_compile",
+	"name" : "m",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874334
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874342
+},{
+	"cat" : "genex_compile",
+	"name" : "m",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874371
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874376
+},{
+	"cat" : "genex_compile",
+	"name" : "m",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874442
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874447
+},{
+	"cat" : "genex_compile",
+	"name" : "m",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874975
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596874985
+},{
+	"cat" : "genex_compile",
+	"name" : "TRUE",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875082
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875088
+},{
+	"cat" : "genex_compile",
+	"name" : "TRUE",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875094
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875098
+},{
+	"cat" : "genex_compile",
+	"name" : "TRUE",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875106
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875109
+},{
+	"cat" : "genex_compile",
+	"name" : "TRUE",
+	"ph" : "B",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875114
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 596875117
+},{
+	"ph" : "E",
+	"pid" : 35532,
+	"tid" : 0,
+	"ts" : 597259738
+}]

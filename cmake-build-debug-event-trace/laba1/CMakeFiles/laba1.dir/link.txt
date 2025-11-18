@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/laba1.dir/child.c.o CMakeFiles/laba1.dir/parent.c.o -o laba1 

@@ -19,18 +19,19 @@
 					"source" : "."
 				},
 				{
-					"build" : "laba2",
-					"jsonFile" : "directory-laba2-Debug-65de82d41915e319f8e0.json",
+					"build" : "laba3",
+					"jsonFile" : "directory-laba3-Debug-0e8e1dc737adde20853e.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "laba2",
+					"source" : "laba3",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -46,7 +47,8 @@
 					"name" : "OSI",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -54,9 +56,16 @@
 			[
 				{
 					"directoryIndex" : 1,
-					"id" : "laba2::@6f6499ef096ada368fa7",
-					"jsonFile" : "target-laba2-Debug-89a9ed7048cddaa1617a.json",
-					"name" : "laba2",
+					"id" : "child::@c9687cb7d586e80cbfb3",
+					"jsonFile" : "target-child-Debug-df8988f252711e66f14e.json",
+					"name" : "child",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "parent::@c9687cb7d586e80cbfb3",
+					"jsonFile" : "target-parent-Debug-89a86e1df4fca76b7fb1.json",
+					"name" : "parent",
 					"projectIndex" : 0
 				}
 			]

@@ -117,17 +117,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named laba2
+# Target rules for targets named child
 
 # Build rule for target.
-laba2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 laba2
-.PHONY : laba2
+child: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 child
+.PHONY : child
 
 # fast build rule for target.
-laba2/fast:
-	$(MAKE) $(MAKESILENT) -f laba2/CMakeFiles/laba2.dir/build.make laba2/CMakeFiles/laba2.dir/build
-.PHONY : laba2/fast
+child/fast:
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/child.dir/build.make laba3/CMakeFiles/child.dir/build
+.PHONY : child/fast
+
+#=============================================================================
+# Target rules for targets named parent
+
+# Build rule for target.
+parent: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 parent
+.PHONY : parent
+
+# fast build rule for target.
+parent/fast:
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/parent.dir/build.make laba3/CMakeFiles/parent.dir/build
+.PHONY : parent/fast
 
 # Help Target
 help:
@@ -137,7 +150,8 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... laba2"
+	@echo "... child"
+	@echo "... parent"
 .PHONY : help
 
 

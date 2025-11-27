@@ -1,4 +1,4 @@
 /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug --profiling-format=google-trace --profiling-output=CMakeFiles\clion-event-trace.json -G "Unix Makefiles" -S /mnt/d/MAI/3semestr/OSI -B /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace
--- Configuring done (0.1s)
--- Generating done (0.1s)
+-- Configuring done (0.0s)
+-- Generating done (0.2s)
 -- Build files have been written to: /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace

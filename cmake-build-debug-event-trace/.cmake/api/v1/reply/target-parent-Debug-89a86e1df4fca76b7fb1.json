@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "laba2/laba2"
+			"path" : "laba3/parent"
 		}
 	],
 	"backtrace" : 1,
@@ -10,12 +10,11 @@
 	{
 		"commands" : 
 		[
-			"add_executable",
-			"target_link_libraries"
+			"add_executable"
 		],
 		"files" : 
 		[
-			"laba2/CMakeLists.txt"
+			"laba3/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -25,13 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 2,
+				"line" : 8,
 				"parent" : 0
 			}
 		]
@@ -56,12 +49,11 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
-	"id" : "laba2::@6f6499ef096ada368fa7",
+	"id" : "parent::@c9687cb7d586e80cbfb3",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -73,21 +65,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "-lm",
-				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
-	"name" : "laba2",
-	"nameOnDisk" : "laba2",
+	"name" : "parent",
+	"nameOnDisk" : "parent",
 	"paths" : 
 	{
-		"build" : "laba2",
-		"source" : "laba2"
+		"build" : "laba3",
+		"source" : "laba3"
 	},
 	"sourceGroups" : 
 	[
@@ -95,8 +82,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -105,13 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "laba2/main.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "laba2/funcs.c",
+			"path" : "laba3/parent.c",
 			"sourceGroupIndex" : 0
 		}
 	],

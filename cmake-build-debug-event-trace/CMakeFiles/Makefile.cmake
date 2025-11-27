@@ -10,7 +10,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/mnt/d/MAI/3semestr/OSI/CMakeLists.txt"
   "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeSystem.cmake"
-  "/mnt/d/MAI/3semestr/OSI/laba2/CMakeLists.txt"
+  "/mnt/d/MAI/3semestr/OSI/laba3/CMakeLists.txt"
   "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake"
@@ -37,10 +37,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "laba2/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "laba3/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "laba2/CMakeFiles/laba2.dir/DependInfo.cmake"
+  "laba3/CMakeFiles/child.dir/DependInfo.cmake"
+  "laba3/CMakeFiles/parent.dir/DependInfo.cmake"
   )

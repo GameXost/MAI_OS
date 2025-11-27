@@ -63,57 +63,85 @@ CMAKE_BINARY_DIR = /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: laba2/all
+all: laba3/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall: laba2/preinstall
+preinstall: laba3/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: laba2/clean
+clean: laba3/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory laba2
+# Directory level rules for directory laba3
 
 # Recursive "all" directory target.
-laba2/all: laba2/CMakeFiles/laba2.dir/all
-.PHONY : laba2/all
+laba3/all: laba3/CMakeFiles/child.dir/all
+laba3/all: laba3/CMakeFiles/parent.dir/all
+.PHONY : laba3/all
 
 # Recursive "preinstall" directory target.
-laba2/preinstall:
-.PHONY : laba2/preinstall
+laba3/preinstall:
+.PHONY : laba3/preinstall
 
 # Recursive "clean" directory target.
-laba2/clean: laba2/CMakeFiles/laba2.dir/clean
-.PHONY : laba2/clean
+laba3/clean: laba3/CMakeFiles/child.dir/clean
+laba3/clean: laba3/CMakeFiles/parent.dir/clean
+.PHONY : laba3/clean
 
 #=============================================================================
-# Target rules for target laba2/CMakeFiles/laba2.dir
+# Target rules for target laba3/CMakeFiles/child.dir
 
 # All Build rule for target.
-laba2/CMakeFiles/laba2.dir/all:
-	$(MAKE) $(MAKESILENT) -f laba2/CMakeFiles/laba2.dir/build.make laba2/CMakeFiles/laba2.dir/depend
-	$(MAKE) $(MAKESILENT) -f laba2/CMakeFiles/laba2.dir/build.make laba2/CMakeFiles/laba2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles --progress-num=1,2,3 "Built target laba2"
-.PHONY : laba2/CMakeFiles/laba2.dir/all
+laba3/CMakeFiles/child.dir/all:
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/child.dir/build.make laba3/CMakeFiles/child.dir/depend
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/child.dir/build.make laba3/CMakeFiles/child.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles --progress-num=1,2 "Built target child"
+.PHONY : laba3/CMakeFiles/child.dir/all
 
 # Build rule for subdir invocation for target.
-laba2/CMakeFiles/laba2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles 3
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 laba2/CMakeFiles/laba2.dir/all
+laba3/CMakeFiles/child.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 laba3/CMakeFiles/child.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles 0
-.PHONY : laba2/CMakeFiles/laba2.dir/rule
+.PHONY : laba3/CMakeFiles/child.dir/rule
 
 # Convenience name for target.
-laba2: laba2/CMakeFiles/laba2.dir/rule
-.PHONY : laba2
+child: laba3/CMakeFiles/child.dir/rule
+.PHONY : child
 
 # clean rule for target.
-laba2/CMakeFiles/laba2.dir/clean:
-	$(MAKE) $(MAKESILENT) -f laba2/CMakeFiles/laba2.dir/build.make laba2/CMakeFiles/laba2.dir/clean
-.PHONY : laba2/CMakeFiles/laba2.dir/clean
+laba3/CMakeFiles/child.dir/clean:
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/child.dir/build.make laba3/CMakeFiles/child.dir/clean
+.PHONY : laba3/CMakeFiles/child.dir/clean
+
+#=============================================================================
+# Target rules for target laba3/CMakeFiles/parent.dir
+
+# All Build rule for target.
+laba3/CMakeFiles/parent.dir/all:
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/parent.dir/build.make laba3/CMakeFiles/parent.dir/depend
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/parent.dir/build.make laba3/CMakeFiles/parent.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles --progress-num=3,4 "Built target parent"
+.PHONY : laba3/CMakeFiles/parent.dir/all
+
+# Build rule for subdir invocation for target.
+laba3/CMakeFiles/parent.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 laba3/CMakeFiles/parent.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles 0
+.PHONY : laba3/CMakeFiles/parent.dir/rule
+
+# Convenience name for target.
+parent: laba3/CMakeFiles/parent.dir/rule
+.PHONY : parent
+
+# clean rule for target.
+laba3/CMakeFiles/parent.dir/clean:
+	$(MAKE) $(MAKESILENT) -f laba3/CMakeFiles/parent.dir/build.make laba3/CMakeFiles/parent.dir/clean
+.PHONY : laba3/CMakeFiles/parent.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

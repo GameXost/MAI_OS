@@ -1,5 +1,6 @@
 /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
 /mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
-/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba2/CMakeFiles/laba2.dir
-/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba2/CMakeFiles/edit_cache.dir
-/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba2/CMakeFiles/rebuild_cache.dir
+/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba3/CMakeFiles/child.dir
+/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba3/CMakeFiles/parent.dir
+/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba3/CMakeFiles/edit_cache.dir
+/mnt/d/MAI/3semestr/OSI/cmake-build-debug-event-trace/laba3/CMakeFiles/rebuild_cache.dir
